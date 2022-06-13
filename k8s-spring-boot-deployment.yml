@@ -10,7 +10,7 @@ spec:
   template:
     metadata:
       labels:
-        app: jhooq-springboot
+        app: vamshi-springboot
     spec:
       containers:
         - name: springboot
